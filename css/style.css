@@ -1,0 +1,52 @@
+.logo{
+	display: inline-block;
+	margin: 30px 49.81px 77.06px 30px;
+	vertical-align: middle;
+}
+.nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+.nav-li{
+	display: inline-block;
+
+}
+.act {
+	margin: 35.76px 21.99px 76.87px 0;
+
+}
+.navi{
+	margin: 35.76px 38.99px 76.87px 0;
+}
+.nav-a{
+	font-size: 22px;
+	color: #3D58A6;
+}
+.active{
+	color: #EE4036
+}
+/*section styles*/
+.container{
+	width: 1170px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.article-text{
+	width: 355px;
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 20px;
+	padding-left: 60.34px;
+	
+}
+.text1{
+	margin:119.59px 887px 30.78px 0; 
+}
+.prgph1{
+	display: inline-block;
+	width: 929px;
+	height: 360px;
+	vertical-align: middle;
+	font-size: 16px;
+	font-family: "BPG Classic Medium", sans-serif;
+	}
