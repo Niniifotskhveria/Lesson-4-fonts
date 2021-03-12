@@ -55,10 +55,11 @@
 	.prgph{
 	margin:22.49px 0 16.51px 30px;
 	font-family: 'ArchyEDT-Bold'sans-serif;
-
-	font-size: 22px
+ 	text-indent: 25px;
+	/*font-size: 22px*/
 	
 }
 .h4{
 	font-family: 'Fascinate';
+	text-transform: uppercase;
 }
